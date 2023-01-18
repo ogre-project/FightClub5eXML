@@ -1,0 +1,6 @@
+# Automatically assign PR to author and add all reviewers below.
+addAssignees: author
+addReviewers: true
+reviewers:
+  - abc
+  - esabol
