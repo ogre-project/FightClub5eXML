@@ -4,7 +4,13 @@ Creating XML files of all official D&D sources compatible with Fight Club 5e and
 
 ## How-to Use This Repository
 
-The files listed in this repository as-is are not compatible with Fight Club 5e. They are instead a collection of individual source files that must be compiled together into a "compendium". That resulting compendium can then be imported into and used by Fight Club 5e.
+1. Download the .xml file best suited for your needs here: https://github.com/ogre-project/FightClub5eXML/releases/latest
+2. Import that file into Fight Club 5e
+3. You're done!
+
+### How to manually compile compendiums
+
+The files in this repository as-is are a collection of individual source files that must be compiled together into a "compendium". That resulting compendium can then be imported into and used by Fight Club 5e.
 
 This document makes a distinction between a **compendium** file and a **collection** file. A compendium file is what you ultimately import into Fight Club 5e; it is an XML file that contains all of the source data and is in a format that Fight Club 5e can process. A collection file is the raw source data that exists within this repository, and is not in a format that can be imported into Fight Club 5e. You must first compile a collection file into a compendium file.
 
